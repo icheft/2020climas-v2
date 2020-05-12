@@ -18,14 +18,15 @@
     <img src="https://api.netlify.com/api/v1/badges/a1589447-74ec-4fc6-b0af-3b1f2cb98728/deploy-status"
          alt="Netlify Status">
   </a>
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/icheft/2020climas">
 </p>
 
 <p align="center">
-  <a href="#demo">Demo</a> •
-  <a href="#how-to-use">How to Use</a> •
-  <a href="#feature-bucket-lists">Added Features</a> •
-  <a href="#contributing">Contributing</a> •
-  <a href="#credits">Credits</a>
+  <a href="#demo">🧑🏾‍💻 Demo</a> •
+  <a href="#how-to-use">📝 How to Use</a> •
+  <a href="#feature-bucket-lists">☑️ Feature Bucket Lists</a> •
+  <a href="#contributing">☕️ Contributing</a> •
+  <a href="#credits">💕 Credits</a>
 </p>
 
 
@@ -34,7 +35,7 @@
 
 
 
-This is a fork from [Imagine Jekyll Theme](https://github.com/icheft/imagine-jekyll-theme). View the demo [here](https://2020climas.netlify.app).
+This is a fork from [Imagine Jekyll Theme](https://github.com/icheft/imagine-jekyll-theme). The site is still in development. View the demo [here](https://2020climas.netlify.app).
 
   
 ***
