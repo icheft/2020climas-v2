@@ -50,15 +50,14 @@ This is a fork from [Imagine Jekyll Theme](https://github.com/icheft/imagine-jek
 ***
   
 ##  Demo
-  
 View demo of CLIMAS Camp Website [here](https://2020climas.netlify.app). I decided to deploy the site to [Netlify](http://netlify.com) to simply things. 
   
 ##  How to Use
-  
-  
 For those who are unfamiliar with Jekyll, please check out [jekyllrb.com](https://jekyllrb.com/ ) for more details. 
 Or just look up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/ ), [writing posts](https://jekyllrb.com/docs/posts/ ), 
 and [creating pages](https://jekyllrb.com/docs/pages/ ).
+
+A list of [icomoon](https://icomoon.io)'s icons can be found [here](https://icomoon.io/app/#/select). If you are more of the pure-text kind of person, you can visit [this page](https://almsoty.blogspot.com/2018/01/icomooncss.html) to see a full list of icons in `css` matter.
 
 Fork this repo if you are interested in helping out with the project.
 
