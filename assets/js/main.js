@@ -8,6 +8,7 @@ $(window).on('load', function(){  // Animate loader off screen
     $(".pre-gif").fadeOut("slow");;
 });
 
+
 jQuery(document).ready(function($) {
 
 	"use strict";
@@ -260,6 +261,7 @@ jQuery(document).ready(function($) {
 
   $(function () {
 	$("#bgndVideo").YTPlayer();
-});
+
+	});
 
 });

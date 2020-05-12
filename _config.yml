@@ -9,7 +9,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Keep in mind, the appearance of Imagine works fantastically well by default, but you can tweak it, too.
   It is released under the Creative Commons.
 # baseurl: "" # the subpath of your site, e.g. /blog
-url: https://icheft.github.io/imagine-jekyll-theme # the base hostname & protocol for your site, e.g. http://example.com
+url: https://icheft.github.io/2020climas # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  yourname
 author: icheft
 
