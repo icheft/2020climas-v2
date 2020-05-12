@@ -22,7 +22,17 @@ a {
 
 h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
-  font-family: "Nunito", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
+  font-family: "Nunito", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; 
+  font-family: 微軟正黑體;
+}
+
+p{
+  font-family: 微軟正黑體;
+}
+
+ul{
+  font-family: 微軟正黑體;
+}
 
 .bg-light {
   background: #f6f6f6 !important; }
@@ -79,6 +89,7 @@ h1, h2, h3, h4, h5,
     background: rgba(0, 0, 0, 0.2); }
 
 .btn {
+  font-family: 微軟正黑體;
   font-size: 16px;
   border-radius: 30px;
   padding: 10px 30px; }
@@ -115,7 +126,9 @@ h1, h2, h3, h4, h5,
 .form-control {
   height: 43px;
   border-radius: 30px;
-  font-family: "Nunito", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
+  font-family: "Nunito", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; 
+  font-family: 微軟正黑體;
+}
   .form-control:active, .form-control:focus {
     border-color: #4285f4; }
   .form-control:hover, .form-control:active, .form-control:focus {
@@ -264,6 +277,7 @@ h1, h2, h3, h4, h5,
       font-size: 20px;
       top: -.3rem;
       font-family: "icomoon";
+      font-family: 微軟正黑體;
       content: "\e5ca";
       position: absolute; }
   .ul-check.white li:before {
@@ -334,7 +348,9 @@ h1, h2, h3, h4, h5,
           -webkit-transform: translateY(-50%);
           -ms-transform: translateY(-50%);
           transform: translateY(-50%);
-          font-family: 'icomoon'; }
+          font-family: 'icomoon'; 
+          font-family: 微軟正黑體;
+        }
       .site-navbar .site-navigation .site-menu .has-children .dropdown {
         visibility: hidden;
         opacity: 0;
@@ -503,6 +519,7 @@ h1, h2, h3, h4, h5,
         font-size: 12px;
         z-index: 20;
         font-family: "icomoon";
+        font-family: 微軟正黑體;
         content: "\f078";
         position: absolute;
         top: 50%;
@@ -1645,6 +1662,8 @@ h1, h2, h3, h4, h5,
       .accordion .accordion-item h2 a:before {
         position: absolute;
         font-family: "icomoon";
+        font-family: 微軟正黑體;
+
         content: "\f196";
         font-size: 20px;
         left: 0;
