@@ -1,6 +1,8 @@
 #  2020 CLIMAS Camp Website
 
-This is a fork from [Imagine Jekyll Theme](https://github.com/icheft/imagine-jekyll-theme).
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a1589447-74ec-4fc6-b0af-3b1f2cb98728/deploy-status)](https://app.netlify.com/sites/2020climas/deploys)
+
+This is a fork from [Imagine Jekyll Theme](https://github.com/icheft/imagine-jekyll-theme). View the demo [here](https://2020climas.netlify.app).
 
 ***
   
