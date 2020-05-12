@@ -93,4 +93,5 @@ Original README from colorlib:
 > More information about the license is available here: https://colorlib.com/wp/licence/
 > 
 > Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
-  
+
+[![HitCount](http://hits.dwyl.com/icheft/2020climas.svg)](http://hits.dwyl.com/icheft/2020climas) since 2020-05-12.
