@@ -1,33 +1,56 @@
-#  2020 CLIMAS Camp Website
+<h1 align="center">
+  <br>
+  <a href="https://2020climas.netlify.app/"><img src="https://i.imgur.com/JVPkJf3.png" alt="imagine" width="200"></a>
+  <br>
+  2020 CLIMAS Camp Website
+  <br>
+</h1>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a1589447-74ec-4fc6-b0af-3b1f2cb98728/deploy-status)](https://app.netlify.com/sites/2020climas/deploys)
+<h4 align="center">2020 CLIMAS Camp Website based on <a href="https://github.com/icheft/imagine-jekyll-theme">Imagine Jekyll Theme</a> by <a href="https://icheft.github.io">icheft</a> under <code>CC BY 3.0</code> license.</h4>
+
+
+<p align="center">
+  <a href="https://travis-ci.org/github/icheft/2020climas">
+    <img src="https://travis-ci.org/icheft/2020climas.svg?branch=master"
+         alt="Build Status">
+  </a>
+  <a href="https://app.netlify.com/sites/2020climas/deploys">
+    <img src="https://api.netlify.com/api/v1/badges/a1589447-74ec-4fc6-b0af-3b1f2cb98728/deploy-status"
+         alt="Netlify Status">
+  </a>
+</p>
+
+<p align="center">
+  <a href="#demo">Demo</a> •
+  <a href="#how-to-use">How to Use</a> •
+  <a href="#feature-bucket-lists">Added Features</a> •
+  <a href="#contributing">Contributing</a> •
+  <a href="#credits">Credits</a>
+</p>
+
+
+  
+![CLIMAS Site](https://i.imgur.com/WgDSLGr.png "CLIMAS Thumbnail")
+
+
 
 This is a fork from [Imagine Jekyll Theme](https://github.com/icheft/imagine-jekyll-theme). View the demo [here](https://2020climas.netlify.app).
 
+  
 ***
   
-A Jekyll theme based on [Imagine template](https://colorlib.com/wp/template/imagine/ ) by [colorlib](https://colorlib.com/ ) under `CC BY 3.0` license.
-  
-![Imagine Jekyll Theme](https://i.imgur.com/ADeQpe0.png "Imagine Jekyll Theme")
-  
 ##  Table of Contents
-  
-  
-- [2020 CLIMAS Camp Website](#2020-climas-camp-website)
-  - [Table of Contents](#table-of-contents)
-  - [Demo](#demo)
-  - [How to Use](#how-to-use)
-  - [Added/Modified Features](#addedmodified-features)
-    - [Sections](#sections)
-    - [Features](#features)
-  - [Contributing](#contributing)
-  - [Credits](#credits)
+- [Demo](#demo)
+- [How to Use](#how-to-use)
+- [Feature Bucket Lists](#feature-bucket-lists)
+- [Contributing](#contributing)
+- [Credits](#credits)
   
 ***
   
 ##  Demo
   
-View demo of this jekyll theme [here](https://icheft.github.io/imagine-jekyll-theme )
+View demo of CLIMAS Camp Website [here](https://2020climas.netlify.app). I decided to deploy the site to [Netlify](http://netlify.com) to simply things. 
   
 ##  How to Use
   
@@ -35,25 +58,14 @@ View demo of this jekyll theme [here](https://icheft.github.io/imagine-jekyll-th
 For those who are unfamiliar with Jekyll, please check out [jekyllrb.com](https://jekyllrb.com/ ) for more details. 
 Or just look up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/ ), [writing posts](https://jekyllrb.com/docs/posts/ ), 
 and [creating pages](https://jekyllrb.com/docs/pages/ ).
-  
-Fork this repository and create a branch named `gh-pages` or `YOURUSERNAME.github.io`, then start editing the `_config.yml` file and the `settings.yml` file under the `_data` directory.
-  
-##  Added/Modified Features
-  
-  
-###  Sections
-  
-+ `schedule` section
-+ `FAQ` section
-  
-###  Features
-  
-+ loading page `gif` can be fully customized to your own `gif` file (current `loader.gif` is created by [Aaron Iker](https://dribbble.com/shots/5533600-Loading-boxes?utm_source=Clipboard_Shot&utm_campaign=ai&utm_content=Loading%20boxes&utm_medium=Social_Share))
-  
-More to be added. 
+
+Fork this repo if you are interested in helping out with the project.
+
+##  Feature Bucket Lists
++ [ ] application forms
++ [ ] activities portfolio
 
 ##  Contributing
-  
   
 If you would like to contribute, in any forms, including reporting a bug, askingn a question, requesting a features, or even submitting pull requests, please feel free to do so. 
   
