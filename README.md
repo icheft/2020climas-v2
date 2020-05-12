@@ -65,6 +65,9 @@ Fork this repo if you are interested in helping out with the project.
 ##  Feature Bucket Lists
 + [ ] application forms
 + [ ] activities portfolio
++ [ ] mini interactive game
++ [ ] chat
++ [ ] back to top
 
 ##  Contributing
   
