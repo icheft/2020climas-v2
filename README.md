@@ -71,7 +71,11 @@ Fork this repo if you are interested in helping out with the project.
 
 ##  Contributing
   
-If you would like to contribute, in any forms, including reporting a bug, askingn a question, requesting a features, or even submitting pull requests, please feel free to do so. 
+If you would like to contribute, in any forms, including reporting a bug, askingn a question, requesting a features, or even submitting pull requests, please feel free to do so. Forking this repo is also welcomed. Please feel free to do whatever you want, just remember not to remove the copyright information of `colorlib`.
+
+If you have more interested in contributing more to this project (e.g. 召部), please consider donating. Such can help improve the quality of the site and I can add more features in (not familiar with web development enough to create everything by myself).
+
+Also, if you like this project, leave a star to get going! 
   
 ***
   
