@@ -4,13 +4,10 @@ google-ID: 'UA-162829284-4'
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'github', link: 'https://www.github.com/icheft'}
-- {icon: 'linkedin', link: 'https://www.linkedin.com/in/brianlhchen/'}
-- {icon: 'envelope', link: 'mailto:brian.lxchen@gmail.com'}
-- {icon: 'instagram', link: 'https://instagram.com/brian_lxchen'}
-- {icon: 'facebook', link: 'https://facebook.com/brian.lxchen'}
+- {icon: 'envelope', link: 'mailto:imsa@ntu.im'}
+- {icon: 'facebook', link: 'https://www.facebook.com/NTUIMSA/'}
 
 
 # Customize site text
-title: "CLIMAS | 歡迎加入我們的行列"
+title: "CLIMAS | 資管中文大氣聯合宿營"
 header: "CLIMAS"
