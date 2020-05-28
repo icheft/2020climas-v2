@@ -7,6 +7,7 @@ AOS.init({
 $(window).on('load', function () {
 	// Animate loader off screen
 	$('.pre-gif').delay(10000).fadeOut('slow');
+	// $('.pre-gif').delay(0).fadeOut('slow');
 });
 
 jQuery(document).ready(function ($) {
@@ -14,6 +15,7 @@ jQuery(document).ready(function ($) {
 
 	// $(".loader").delay(1000).fadeOut("slow");
 	$('#overlayer').delay(10000).fadeOut('slow');
+	// $('#overlayer').delay(0).fadeOut('slow');
 
 	var siteMenuClone = function () {
 		$('.js-clone-nav').each(function () {

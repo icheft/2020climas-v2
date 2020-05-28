@@ -2672,14 +2672,16 @@ Source: https://smallenvelop.com/display-loading-icon-page-loads-completely/
 	left: 100px;
 	top: 0;
 }
+
 .pre-gif {
 	position: absolute;
-	left: 0px;
-	top: 0px;
-	width: 100vw;
-	height: 100vh;
+	right: 0;
+	bottom: 0;
+	min-width: 100%;
+	min-height: 100%;
 	z-index: 9999;
-	background: url(/assets/images/header.mov) center no-repeat #fff;
+	background: url(/assets/images/header_motion.gif) center no-repeat #fff;
+	background-size: cover;
 }
 
 .form-subscribe .btn:hover,
